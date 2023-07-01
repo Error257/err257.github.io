@@ -7,7 +7,7 @@ date: 2022-06-01
 Update: 25 May 2022
 
 List of open source Android applications for "de-google, de-samsung, de-microsoft, de-nsa, de-china-malware etc. etc." your mobile phone, as always, the list is written in a (KISS) simple way.
-Feel free to [contact me](https://brainfucksec.github.io/contacts) to add applications or modify the list.
+Feel free to [contact me]() to add applications or modify the list.
 
 The links in the list are related to the application website (if exists) or to the source code repository, I suggest to install [Droid-ify](https://github.com/NeoApplications/Neo-Store) which already has the repositories of Guardian Project, IzzyOnDroid and other applications such as Bromite and NewPipe, and search apps from there.
 
